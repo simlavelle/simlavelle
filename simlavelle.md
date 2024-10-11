@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Simeon
+# 👋 Hi, I’m Simeon <br/> Cybersecurity Professional
 <a href="https://www.linkedin.com/in/simeon4425/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-thebadge&logoColor=white" /></a>
 
 
@@ -18,10 +18,14 @@
 ### Endpoint
 
 ### SIEM
+<div>
+<img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://drive.google.com/file/d/1HqgzWwBg0VuTQkpMv0i3obc0jfgplBmp/view?usp=share_link" />
+</div>
 
 
 
