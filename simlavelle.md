@@ -24,7 +24,7 @@
 
 ## Certifications
 <div>
-<img src="https://github.com/user-attachments/assets/c0fe8cb1-071e-4f1e-a56b-cba6545f100f" />
+<img src="https://github.com/user-attachments/assets/e7bff4fe-d327-4c75-8e89-6fc71a36b80d" />
 
 </div>
 
