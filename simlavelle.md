@@ -24,7 +24,7 @@
 
 ## Certifications
 <div>
-<img src="https://drive.google.com/file/d/1HqgzWwBg0VuTQkpMv0i3obc0jfgplBmp/view?usp=share_link" />
+
 </div>
 
 
