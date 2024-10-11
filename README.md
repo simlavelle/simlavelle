@@ -2,7 +2,26 @@
 <a href="https://www.linkedin.com/in/simeon4425/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-thebadge&logoColor=white" /></a>
 
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+
+## Objective
+
+## Skills
+
+| Skill                                       | Associated Project              |
+|---------------------------------------------|---------------------------------|
+| SIEM Implementation and Log Analysis        | SIEM Lab                        |
+
+
+## Tools
+
+### Network
+
+### Endpoint
+
+### SIEM
+
+## Certifications
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
