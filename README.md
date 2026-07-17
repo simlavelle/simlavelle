@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-# Simeon Wilson — Cybersecurity Portfolio
+# Simeon W. — Cybersecurity Portfolio
 
 IT Help Desk Specialist transitioning into cybersecurity, with a growing focus on the
 intersection of **security and AI/ML**. Currently completing a **B.S. in Cybersecurity &
-Information Assurance** (WGU, expected Nov 2026). Based in the DFW area.
+Information Assurance** (WGU, expected Nov 2026).
 
 This portfolio collects applied security work — forensic investigations, risk and
 access-control assessments, incident response, network analysis, and a machine-learning
@@ -35,6 +35,6 @@ FISMA · CFAA · ECPA
 
 **Technical:** Python · Autopsy · Nmap · Wireshark · scikit-learn · Linux · Windows internals
 
-**In progress / target certs:** CompTIA A+ · Network+ · Linux Essentials · ITIL 4 · (ISC)² SSCP
+**Certs:** CompTIA A+ · Security+ · ITIL 4 · 
 
 
