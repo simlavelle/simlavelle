@@ -1,40 +1,40 @@
-## Hi there 👋
+# Hi, I'm Simeon 👋
 
-# Simeon W. — Cybersecurity Portfolio
+IT Help Desk Specialist moving into **cybersecurity**, with a growing focus on where
+**security meets AI/ML**. Currently finishing a **B.S. in Cybersecurity & Information
+Assurance** at WGU (expected Nov 2026). Based in the DFW area.
 
-IT Help Desk Specialist transitioning into cybersecurity, with a growing focus on the
-intersection of **security and AI/ML**. Currently completing a **B.S. in Cybersecurity &
-Information Assurance** (WGU, expected Nov 2026).
+I'm a hands-on learner — I'd rather build the thing than read about it. The repos below are
+applied security work: real investigations, assessments, and tooling, each pairing a written
+case study with runnable code.
 
-This portfolio collects applied security work — forensic investigations, risk and
-access-control assessments, incident response, network analysis, and a machine-learning
-security project. Each repo pairs a written case study with runnable code or artifacts.
+## 🔦 Featured projects
 
-> **Note on content:** These projects are original write-ups built on scenario-based
-> lab work. Client/organization names are fictional and all data is synthetic. No
-> proprietary or personal data is included.
+| Project | What it shows |
+|---|---|
+| [Digital Forensics — Windows Investigation](https://github.com/simlavelle/digital-forensics-windows-investigation) | Insider-threat forensics on a Windows 11 host + a Python evidence-integrity/timeline tool |
+| [Access Control & RBAC Assessment](https://github.com/simlavelle/access-control-rbac-assessment) | Least-privilege / SoD audit + a Python entitlement-audit tool |
+| [Incident Response & Risk Assessment](https://github.com/simlavelle/incident-response-risk-assessment) | NIST 800-61 breach analysis + a quantitative risk-scoring engine |
+| [Network Security Assessment](https://github.com/simlavelle/network-security-assessment) | Nmap/Wireshark triage, WLAN/BYOD hardening, CVSS prioritization tool |
+| [Cyber Law & Ethics Analysis](https://github.com/simlavelle/cyber-law-ethics-analysis) | CFAA/ECPA legal analysis + compliance-control mapping |
+| [AI Phishing Detector](https://github.com/simlavelle/ai-phishing-detector) | ML phishing classifier (TF-IDF + logistic regression) — applied AI for security |
 
-## Projects
+## 🛠️ Skills
 
-| Project | What it demonstrates | Key tools / frameworks |
-|---|---|---|
-| [Digital Forensics — Windows Investigation](./digital-forensics-windows-investigation) | Evidence acquisition, artifact analysis, chain-of-custody, reporting | Autopsy, NIST SP 800-86/800-61, Python |
-| [Access Control & RBAC Assessment](./access-control-rbac-assessment) | Privilege review, RBAC design, least-privilege gap analysis | RBAC, NIST SP 800-53, Python |
-| [Incident Response & Risk Assessment](./incident-response-risk-assessment) | IR lifecycle, CIA/PII impact, risk register, quantitative risk scoring | NIST SP 800-61, FISMA, Python |
-| [Network Security Assessment](./network-security-assessment) | Host/port enumeration, vulnerability triage, traffic anomaly analysis | Nmap, Wireshark, Mermaid |
-| [Cyber Law & Ethics Analysis](./cyber-law-ethics-analysis) | Legal analysis (CFAA/ECPA), ethical frameworks, compliance mapping | CFAA, ECPA, SOX, GDPR |
-| [AI Phishing Detector](./ai-phishing-detector) | Applied ML for security: feature engineering, model training, evaluation | Python, scikit-learn |
+**Security:** digital forensics · incident response · risk management · access control / IAM ·
+network & wireless security · vulnerability assessment · GRC / compliance
 
-## Skills index
+**Frameworks:** NIST CSF 2.0 · NIST SP 800-53 / 800-61 / 800-86 · ISO/IEC 27002 · FISMA · CFAA · ECPA
 
-**Security domains:** digital forensics · incident response · risk management · access
-control / IAM · network security · vulnerability assessment · security governance & compliance
+**Technical:** Python · scikit-learn · Autopsy · Nmap · Wireshark · Linux · Windows internals
 
-**Frameworks & standards:** NIST CSF 2.0 · NIST SP 800-53 / 800-61 / 800-86 · ISO/IEC 27002 ·
-FISMA · CFAA · ECPA
+## 📜 Certifications (in progress / target)
 
-**Technical:** Python · Autopsy · Nmap · Wireshark · scikit-learn · Linux · Windows internals
+CompTIA A+ · Network+ · Linux Essentials · ITIL 4 · (ISC)² SSCP
 
-**Certs:** CompTIA A+ · Security+ · ITIL 4 · 
+## 📫 Reach me
 
+- Email: bearded_dinghy_1t@icloud.com
+- LinkedIn: _add your URL_
 
+<sub>Case-study projects use synthetic data and fictional organizations — no proprietary or personal data.</sub>
