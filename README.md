@@ -35,6 +35,6 @@ CompTIA A+ · Network+ · Linux Essentials · ITIL 4 · (ISC)² SSCP
 ## 📫 Reach me
 
 - Email: bearded_dinghy_1t@icloud.com
-- LinkedIn: _add your URL_
+
 
 <sub>Case-study projects use synthetic data and fictional organizations — no proprietary or personal data.</sub>
